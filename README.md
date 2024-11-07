@@ -1,5 +1,7 @@
+**Launch now in Colab** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Rayyan-Tariq-Khan/Easy-GIP/blob/main/Easy-GIP.ipynb)
+
 # Easy-GIP
-An execution and analysis workflow for GIP (Gaussian Interaction Profiler)
+An execution and analysis workflow for [GIP](https://github.com/joerivstrien/gip-bio) (Gaussian Interaction Profiler)
 
 ## Description
 Easy-GIP is a Python notebook that lets you easily run [GIP](https://github.com/joerivstrien/gip-bio) as well as analyse the output in a graphical manner. It also contains a molecular weight calibrator for gel slices from a complexomic experimental run.
