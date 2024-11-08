@@ -1,4 +1,4 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Rayyan-Tariq-Khan/Easy-GIP/blob/main/Easy-GIP.ipynb)
+**Try the demo version >** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Rayyan-Tariq-Khan/Easy-GIP/blob/main/Easy_GIP_Demo.ipynb)
 
 # Easy-GIP
 An execution and analysis workflow for [GIP](https://github.com/joerivstrien/gip-bio) (Gaussian Interaction Profiler)
